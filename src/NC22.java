@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 /**
  * @author jinlu
  * @create 2021-04-18 21:18
@@ -12,5 +14,6 @@ public class NC22 {
             A[index--] = A[i] > B[j] ? A[i--] : B[j--];
         while (j >= 0)//如果B没有遍历完，那么之间丢在A数组里面
             A[index--] = B[j--];
+
     }
 }

@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6aaebc24-ac25-414e-ace1-cdef3b3acf72" name="Default Changelist" comment="" />
+    <list default="true" id="6aaebc24-ac25-414e-ace1-cdef3b3acf72" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/JZoffer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JZoffer/src/JZ60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/important/important.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/important/src/lc11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/important/src/lc121.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/important/src/lc53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/important/src/mergesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leetcode203.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NC128.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NC36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NC50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NC54.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newcoder/NC22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/newcoder/NC22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NC22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NC22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NC33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NC33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NC52.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NC52.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +57,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\IDEA 2019.3.1\IntelliJ IDEA 2019.3.1\newcoder\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1r9ucabsAOgOcuX9ppOE0uGAr5Q" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -26,6 +73,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -36,9 +84,23 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Application.NC22">
+  <component name="RunManager" selected="Application.mergesort">
+    <configuration name="JZ16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JZ16" />
+      <module name="JZoffer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NC22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="NC22" />
+      <module name="newcoder" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NC36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NC36" />
       <module name="newcoder" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,8 +113,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mergesort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mergesort" />
+      <module name="important" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.mergesort" />
+        <item itemvalue="Application.JZ16" />
+        <item itemvalue="Application.NC36" />
         <item itemvalue="Application.NC22" />
         <item itemvalue="Application.NC88" />
       </list>
@@ -81,14 +153,58 @@
       <option name="presentableId" value="Default" />
       <updated>1618400706407</updated>
       <workItem from="1618400710195" duration="4865000" />
-      <workItem from="1618448250705" duration="24082000" />
+      <workItem from="1618448250705" duration="98365000" />
     </task>
+    <task id="LOCAL-00001" summary="牛客top200">
+      <created>1618796972879</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618796972879</updated>
+    </task>
+    <task id="LOCAL-00002" summary="牛客top200">
+      <created>1618800817523</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1618800817523</updated>
+    </task>
+    <task id="LOCAL-00003" summary="牛客top200">
+      <created>1618801503480</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618801503480</updated>
+    </task>
+    <task id="LOCAL-00004" summary="牛客top200">
+      <created>1618801891845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1618801891845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="牛客top200">
+      <created>1618819110334</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1618819110334</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="牛客top200" />
+    <option name="LAST_COMMIT_MESSAGE" value="牛客top200" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="862" y="291" key="CommitChangelistDialog2" timestamp="1618819108901">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="862" y="291" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1618819108901" />
     <state x="1060" y="441" key="FileChooserDialogImpl" timestamp="1618796845711">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -97,37 +213,56 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1101" y="613" width="382" height="173" key="Github.CreateGistDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1618796637446" />
-    <state width="2517" height="126" key="GridCell.Tab.0.bottom" timestamp="1618753661105">
+    <state x="1789" y="591" width="273" height="218" key="Github.ShareDialog" timestamp="1618797045058">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="126" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1618753661105" />
-    <state width="2517" height="126" key="GridCell.Tab.0.center" timestamp="1618753661105">
+    <state x="1789" y="591" width="273" height="218" key="Github.ShareDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1618797045058" />
+    <state width="2517" height="329" key="GridCell.Tab.0.bottom" timestamp="1619442307215">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="126" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1618753661105" />
-    <state width="2517" height="126" key="GridCell.Tab.0.left" timestamp="1618753661105">
+    <state width="2517" height="329" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1619442307215" />
+    <state width="2517" height="329" key="GridCell.Tab.0.center" timestamp="1619442307215">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="126" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1618753661105" />
-    <state width="2517" height="126" key="GridCell.Tab.0.right" timestamp="1618753661105">
+    <state width="2517" height="329" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1619442307215" />
+    <state width="2517" height="329" key="GridCell.Tab.0.left" timestamp="1619442307215">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="126" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1618753661105" />
-    <state width="2517" height="312" key="GridCell.Tab.1.bottom" timestamp="1618753634605">
+    <state width="2517" height="329" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1619442307215" />
+    <state width="2517" height="329" key="GridCell.Tab.0.right" timestamp="1619442307215">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="312" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1618753634605" />
-    <state width="2517" height="312" key="GridCell.Tab.1.center" timestamp="1618753634605">
+    <state width="2517" height="329" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1619442307215" />
+    <state width="2517" height="312" key="GridCell.Tab.1.bottom" timestamp="1619442234481">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="312" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1618753634605" />
-    <state width="2517" height="312" key="GridCell.Tab.1.left" timestamp="1618753634605">
+    <state width="2517" height="312" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1619442234481" />
+    <state width="2517" height="312" key="GridCell.Tab.1.center" timestamp="1619442234481">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="312" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1618753634605" />
-    <state width="2517" height="312" key="GridCell.Tab.1.right" timestamp="1618753634605">
+    <state width="2517" height="312" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1619442234481" />
+    <state width="2517" height="312" key="GridCell.Tab.1.left" timestamp="1619442234481">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="312" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1618753634605" />
+    <state width="2517" height="312" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1619442234481" />
+    <state width="2517" height="312" key="GridCell.Tab.1.right" timestamp="1619442234481">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="312" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1619442234481" />
+    <state x="654" y="310" key="new project wizard" timestamp="1619422533554">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="654" y="310" key="new project wizard/0.0.2560.1400@0.0.2560.1400" timestamp="1619422533554" />
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup" timestamp="1619053900509">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="943" y="315" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1619053900509" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="list1.val" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

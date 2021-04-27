@@ -5,7 +5,20 @@ import java.util.Stack;
  * @create 2021-04-16 11:20
  */
 public class NC52 {
-    public boolean isValid (String s) {
+    public boolean isValid (String s) {/*
+        Stack<Character> stack = new Stack<Character>();
+        for (char c : s.toCharArray()) {
+            if (c == '(')
+                stack.push(')');
+            else if (c == '{')
+                stack.push('}');
+            else if (c == '[')
+                stack.push(']');
+            else if (stack.empty() || c != stack.pop())
+                return false;
+        }
+        return stack.empty();
+    }*/
         int l=s.length();
         if (l%2!=0) return false;
 
